@@ -1,8 +1,10 @@
 ### 👋 Hi there, I'm Kafui
 
+- 👨🏾‍💻 I am a software engineer, currently transitioning fully into backend
 - 🔭 Passionate about learning and exploring opportunities that challenge me to grow my problem-solving, communication and writing skills.
 - 👨🏾‍💻 My blog: https://kafuikumah.com
 - 📩 Email: kafui.kofi.kumah@gmail.com
+- Technologies: Javascript, Node.js, React, Python, Django, Flask, PHP, Laravel.
  
 <!--
 **kafuikumah/kafuikumah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
