@@ -1,5 +1,9 @@
-### Hi there 👋
+### 👋 Hi there, I'm Kafui
 
+- 🔭 Passionate about learning and exploring opportunities that challenge me to grow my problem-solving, communication and writing skills.
+- 👨🏾‍💻 My blog: https://kafuikumah.com
+- 📩 Email: kafui.kofi.kumah@gmail.com
+ 
 <!--
 **kafuikumah/kafuikumah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
