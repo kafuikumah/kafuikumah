@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Kafui.
 
-- 👨🏾‍💻 I am a software engineer with a focus on backend development.
+- 👨🏾‍💻 I am a software engineer, currently transitioning into backend development.
 - 🔭 Interested in learning and exploring opportunities that challenge me to grow my problem-solving, communication and writing skills.
 - 🌐 **My blog**: https://kafuikumah.com.
 - 📩 **Reach out**: kafui.kofi.kumah@gmail.com.
