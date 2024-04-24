@@ -2,7 +2,7 @@
 
 - 👨🏾‍💻 I am a software engineer, currently transitioning into backend development.
 - 🔭 Interested in learning and exploring opportunities that challenge me to grow my problem-solving, communication and writing skills.
-- 🌐 **My blog**: https://kafuikumah.com.
+- 🌐 **My blog**: https://kafuikumah.com/blog.
 - 📩 **Reach out**: kafui.kofi.kumah@gmail.com.
 - 💻 **Skills**: Javascript, Node.js, Reactjs, Nextjs, Python, Django, Flask. **Past**: PHP, Laravel, iOS. 
  
